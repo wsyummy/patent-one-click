@@ -1,4 +1,4 @@
-# Patent One Click
+# patent-one-click
 
 一键智能专利生成系统 - Claude Code Skill
 
@@ -32,13 +32,13 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/your-repo/patent-one-click.git
+git clone https://github.com/wsyummy/patent-one-click.git
 
 # 进入目录
 cd patent-one-click
 
 # 安装依赖
-pip install matplotlib numpy python-docx
+pip install -r requirements.txt
 ```
 
 ### 方式2：复制到Claude Code Skills目录
