@@ -1,0 +1,22 @@
+{
+  "name": "patent-one-click",
+  "version": "1.0.0",
+  "description": "一键智能专利生成系统。给定专利题目，自动完成检索、审核、修改、图表生成、文档输出",
+  "author": "good-skills",
+  "tags": [
+    "patent",
+    "一键生成",
+    "AI专利",
+    "智能生成",
+    "电网",
+    "电力"
+  ],
+  "platforms": [
+    "all"
+  ],
+  "dependencies": [
+    "matplotlib",
+    "numpy",
+    "python-docx"
+  ]
+}
